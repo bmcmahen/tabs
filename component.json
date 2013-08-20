@@ -1,0 +1,23 @@
+{
+  "name": "tabs",
+  "repo": "bmcmahen/tabs",
+  "description": "a small helper view for managing tabs",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "component/event": "*",
+    "component/classes": "*",
+    "component/bind": "*",
+    "component/each": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "tabs.css"
+  ]
+}
